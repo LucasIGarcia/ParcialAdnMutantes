@@ -50,4 +50,29 @@ Este proyecto fue deployado en Render:
     ]
 }
 ```
+## Endpoints POST y GET
+
+ <b>*POST /mutant*</b> - Recibe un JSON con la matriz de ADN a verificar.
+```json
+  {
+    "dna": [
+        "ATGCGA",
+        "CAGTGC",
+        "TTATTT",
+        "AGACGG",
+        "GCGTCA",
+        "TCACTG"
+    ]
+}
+```
+<b> *GET /stats*<b> - Devuelve un JSON con la cantidad de mutantes y humanos verificados.
+```json
+{
+     "countMutant": 30,
+     "countHuman": 100,
+     "ratio": 0.3,
+     "totalDeRegistros": 130,
+     "porcentajeDeMutantes": 30
+}
+```
 
