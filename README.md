@@ -75,8 +75,3 @@ Este proyecto fue deployado en Render:
      "porcentajeDeMutantes": 30
 }
 ```
-
-
-
-
-GARCIA LUCAS - <a href:https://github.com/LucasIGarcia></a>
