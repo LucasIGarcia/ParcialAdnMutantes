@@ -65,7 +65,7 @@ Este proyecto fue deployado en Render:
     ]
 }
 ```
-<b> *GET /stats*<b> - Devuelve un JSON con la cantidad de mutantes y humanos verificados.
+<b> *GET /stats*</b> - Devuelve un JSON con la cantidad de mutantes y humanos verificados.
 ```json
 {
      "countMutant": 30,
@@ -76,3 +76,7 @@ Este proyecto fue deployado en Render:
 }
 ```
 
+
+
+
+GARCIA LUCAS - <a href:https://github.com/LucasIGarcia></a>
